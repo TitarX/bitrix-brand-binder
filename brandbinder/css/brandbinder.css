@@ -1,0 +1,49 @@
+#brandbinder-container .button-brandbinder {
+    display: inline-block;
+}
+
+#brandbinder-container fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+#brandbinder-container legend {
+    width: auto;
+    margin-bottom: auto;
+    border-bottom: none;
+}
+
+#brandbinder-container form[name='brandbinder-start-form'] div.fields-wrapper {
+    display: flex;
+}
+
+#brandbinder-container input[type='text'],
+#brandbinder-container input[type='number'] {
+    margin-right: 10px;
+}
+
+#brandbinder-container input[type='number'] {
+    flex-basis: 100%;
+}
+
+#brandbinder-container .button-brandbinder-stop {
+    width: auto;
+    margin-top: 4px;
+}
+
+#brandbinder-container h3 {
+    margin: 10px 0 0;
+}
+
+#brandbinder-container .info {
+    color: #28a745;
+}
+
+#brandbinder-container .warning {
+    color: #ffc107;
+}
+
+#brandbinder-container .error {
+    color: #dc3545;
+}

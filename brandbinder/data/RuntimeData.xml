@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <piece>24</piece>
+    <recalltimestamp>1615574544</recalltimestamp>
+    <productiblockid>25</productiblockid>
+    <brandiblockid>12</brandiblockid>
+    <productprocessdisabledelements>1</productprocessdisabledelements>
+    <productdonotrewriteexistingvalues>1</productdonotrewriteexistingvalues>
+    <totalproductscount>6672</totalproductscount>
+    <doneproductcount>6672</doneproductcount>
+    <productiblockname>Основной каталог товаров</productiblockname>
+    <brandiblockname>Бренды</brandiblockname>
+</data>
